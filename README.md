@@ -1,9 +1,11 @@
-# Olá, eu sou Martins 👋
+# Olá, eu sou Martins!
 Sobre mim
-# 🎯 Analista de Redes
+Formado em Redes de Computadores
 
-💻 Infraestrutura E Redes
+# interessado em tudo que envolva
+💻 Infraestrutura, Redes e Automação
 
+SEMPRE ME ATUALIZANDO SOBRE:
 🌐 TCP/IP, VLANs, VPNs, OSPF e BGP
 
 🐧 Linux 
