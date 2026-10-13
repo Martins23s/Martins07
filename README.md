@@ -6,6 +6,7 @@ Formado em Redes de Computadores
 💻 Infraestrutura, Redes e Automação
 
 SEMPRE ME ATUALIZANDO SOBRE:
+
 🌐 TCP/IP, VLANs, VPNs, OSPF e BGP
 
 🐧 Linux 
