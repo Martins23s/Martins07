@@ -15,10 +15,10 @@ SEMPRE ME ATUALIZANDO SOBRE:
 # ====================================== #
 
 # Certificações
-# MTCNA
+MTCNA
 
 
 # ====================================== #
 
 # Contato
-# Linkedin -> www.linkedin.com/in/johnatas-martins-6b70932b1
+Linkedin -> www.linkedin.com/in/johnatas-martins-6b70932b1
