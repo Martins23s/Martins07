@@ -10,11 +10,11 @@ Sobre mim
 
 # ====================================== #
 
-Certificações
-MTCNA
+# Certificações
+# MTCNA
 
 
 # ====================================== #
 
-Contato
-Linkedin -> www.linkedin.com/in/johnatas-martins-6b70932b1
+# Contato
+# Linkedin -> www.linkedin.com/in/johnatas-martins-6b70932b1
