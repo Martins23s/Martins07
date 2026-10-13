@@ -2,7 +2,7 @@
 Sobre mim
 # 🎯 Analista de Redes
 
-💻 Interesse em Automação de Infraestrutura
+💻 Infraestrutura E Redes
 
 🌐 TCP/IP, VLANs, VPNs, OSPF e BGP
 
